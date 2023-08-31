@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-28T08:41:48 IST" name="Suite" finished-at="2023-08-28T08:41:54 IST" duration-ms="6553">
+    <groups>
+    </groups>
+    <test started-at="2023-08-28T08:41:48 IST" name="Test" finished-at="2023-08-28T08:41:54 IST" duration-ms="6553">
+      <class name="testng.ExtentReport">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:testng.ExtentReport@6404f418]" started-at="2023-08-28T08:41:45 IST" name="launchBrowser" finished-at="2023-08-28T08:41:48 IST" duration-ms="3163" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="openBig()[pri:0, instance:testng.ExtentReport@6404f418]" started-at="2023-08-28T08:41:48 IST" name="openBig" finished-at="2023-08-28T08:41:49 IST" duration-ms="969" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBig -->
+        <test-method signature="openGoogle()[pri:0, instance:testng.ExtentReport@6404f418]" started-at="2023-08-28T08:41:49 IST" name="openGoogle" finished-at="2023-08-28T08:41:51 IST" duration-ms="1966" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openGoogle -->
+        <test-method signature="openMaven()[pri:0, instance:testng.ExtentReport@6404f418]" started-at="2023-08-28T08:41:51 IST" name="openMaven" finished-at="2023-08-28T08:41:54 IST" duration-ms="3571" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openMaven -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:testng.ExtentReport@6404f418]" started-at="2023-08-28T08:41:54 IST" name="closeBrowser" finished-at="2023-08-28T08:41:55 IST" duration-ms="380" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- testng.ExtentReport -->
+      <class name="testng.AmazonTest">
+        <test-method signature="f()[pri:0, instance:testng.AmazonTest@66f57048]" started-at="2023-08-28T08:41:54 IST" name="f" finished-at="2023-08-28T08:41:54 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- testng.AmazonTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
